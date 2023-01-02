@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.head{
+    display: flex
+}
+.pfl-name{
+    display: ;
+font-size: 50px;
+text-transform: capitalize;
+color: #312e2e;
+margin: 200px 40px;
+width: 70%;
+}
+.pfl-name span{
+    font-size: 100px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.head img{
+    width: 30%;
+    height: fit-content;
+    margin: auto;
+    border-radius: 50%;
+}
+.balck-red{
+    text-align: center;
+    font-size: 30px;
+    color: red;
+    background: #000;
+    padding: 10px;
+}
+
+.right{
+    margin-top: 2rem;
+    background: #9c2323;
+    border: 3px solid black;
+    border-radius: 5px;
+    color: #fff;
+    
+
+}
+.right h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+.list{
+    margin: 20px ;
+}
+
+
+
+
+
+
